@@ -1,0 +1,7 @@
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\bin\Debug\EcoFacil.exe.config
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\bin\Debug\EcoFacil.exe
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\bin\Debug\EcoFacil.pdb
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\obj\Debug\EcoFacil.csprojAssemblyReference.cache
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\obj\Debug\EcoFacil.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\obj\Debug\EcoFacil.exe
+C:\Users\Willian\source\repos\EcoFacil\EcoFacil\obj\Debug\EcoFacil.pdb
